@@ -1,0 +1,59 @@
+*{
+    padding: 5px;
+    margin: 5px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+   background:#003200
+
+    
+}
+.container{
+ 
+
+    height: 90vh;
+    background-color: #fff;
+    width: 60vh;
+    box-shadow: 0 0 20px 10px;
+}
+.container h1{
+    color: darkgoldenrod;
+    position: relative;
+   padding-top: 6vh;
+   font-size: 30px;
+   text-align: center;
+   justify-content: center;
+   
+   
+}
+.container input{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+width: 15em;
+outline: none;
+padding: 20px;
+margin: 15px 0;
+color: black;
+font-size: 15px;
+margin-left: 15vh;
+border-bottom: 2px solid darkgoldenrod;
+border-top: none;
+border-left: none;
+border-right: none;
+margin-top: 5vh;
+
+}
+.password-eye{
+    position: relative;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+    
+}
