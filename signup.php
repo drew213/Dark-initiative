@@ -4,11 +4,17 @@
     
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lenslink</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>LensLink</title>
+  <link rel="shortcut icon" href="Data/2(circle).png">
+  <!-- Tell the browser to be responsive to screen width -->
+  <!-- Developed by Naseeb Bajracharya -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+
 	<style type="text/css">
 .auto-style1 {
 	font-size: small;
