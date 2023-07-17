@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
 
 input {
 	caret-color: red;
@@ -118,3 +118,22 @@ h1 {
   top: 0;
   left: 0;
 }
+
+footer {
+    background: #fff;
+    padding: 15px;
+    color: #444;
+    border-top: 1px solid #d2d6de
+}
+ 
+checkbox {
+	  position: relative;
+	  width: 10px;
+	  height: 10px;
+	  border-radius: 0px;
+	  padding: 0px;
+	  box-sizing: border-box;
+	  background: #e4f5ff;
+	  text-align: left;
+	  background-color: #e4f5ff;
+  }
